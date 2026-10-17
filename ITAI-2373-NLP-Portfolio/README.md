@@ -17,7 +17,7 @@ This portfolio documents my learning in Natural Language Processing through assi
 | `02_Lab_Text_Preprocessing/` | Lab 02 – Basic NLP Preprocessing | Notebook PDF export, reflection journal, README |
 | `04_Lab_Text_Representation/` | Lab 04 – Text Representation | Notebook PDF export, reflection journal, README |
 | `05_Lab_POS_Tagging/` | Lab 05 – POS Tagging | Notebook PDF export and README |
-| `99_Midterm_NewsBot/` | NewsBot Intelligence System | Executable notebook, group reflection, README |
+| `Midterm_NewsBot/` | NewsBot Intelligence System | Executable notebook, group reflection, README |
 
 ## Midterm Project
 
