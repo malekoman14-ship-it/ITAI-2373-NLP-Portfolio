@@ -48,4 +48,4 @@ Automated news categorization, media monitoring, sentiment analysis, and informa
 ## Note
 
 This folder is a portfolio copy. The original team repository is available at:
-https://github.com/malekoman14-ship-it/ITAI2373-NewsBot-Midterm
+https://github.com/malekoman14-ship-it/ITAI-2373-NLP-Portfolio/tree/main/ITAI-2373-NLP-Portfolio/99_Midterm_NewsBot)
